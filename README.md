@@ -1,4 +1,4 @@
-<a href=#><img src="contributions.svg"></a>
+Hi, collaborations are highly welcomed.
 
 <p align="center"> 
   Visitor count<br>
