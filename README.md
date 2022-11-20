@@ -3,5 +3,5 @@
 <a href=#><img src="contributions.svg"></a>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+  <img src="https://github.com/Markin-Wang/Markin-Wang/blob/output/github-contribution-grid-snake.svg" />
 </p>
